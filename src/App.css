@@ -1,0 +1,22 @@
+.heading{
+    font-weight: 700;
+    font-size: 40px;
+    margin: 5px;
+    margin-bottom: 10px;
+}
+
+input{
+    width: 100%;
+}
+
+.items-container{
+    text-align: left;
+}
+
+.rowprop{
+    margin: 10px 5px;
+}
+
+.btnprop{
+    width: 100%;
+}
